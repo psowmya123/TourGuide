@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:verdana;
+	}
+
+nav.n1{
+		background-color:#0002;
+		height: 70px;
+		width: 100%;
+		line-height: 70px;
+		position:absolute;
+	}
+	
+nav.n1 ul{
+		float: right;
+		margin-right:50px;
+    }
+	
+nav.n1 ul li{
+			list-style-type:none;
+			display: inline-block;
+		}	
+		
+nav.n1 ul li a{
+			text-decoration: none;
+			color:black;
+			padding:20px;
+        }
+		
+.bottomnav{
+	background-color:#bebebe;
+}
